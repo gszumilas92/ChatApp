@@ -1,2 +1,2 @@
 # Installation
-# npm install bootstrap@4.0.0-alpha.6
+npm install bootstrap@4.0.0-alpha.6
